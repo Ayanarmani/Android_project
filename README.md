@@ -1,3 +1,3 @@
-# Android projects
+# Android project
 
-It have 2 small projects inside. News app & Women Safety
+Women Safety app built on java.
