@@ -1,3 +1,3 @@
 # Android project
 
-Women Safety app built on java.
+Women Safety app.
